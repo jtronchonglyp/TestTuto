@@ -4,4 +4,6 @@ Arbitrum
 Optimistic
 zksync
 et bientot Aztec zkmoney
+
+Apres a voir si il y aura des ZK sur les optimistics rollups
  
